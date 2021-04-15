@@ -11,8 +11,6 @@ Gameplay
 ![Screenshot_958](https://user-images.githubusercontent.com/81723082/114876628-b48dbb80-9e28-11eb-9a67-105588af0b21.png)
 Gameover
 
-This is a modification version of CLumsy Bird
+This is a modification version of Ellisonleao CLumsy Bird
 
-Special Thanks to Ellisonleao for the source code
-
-you can check it out on https://github.com/ellisonleao/clumsy-bird
+Special Thanks to Ellisonleao for the source code and you can check it out on https://github.com/ellisonleao/clumsy-bird
