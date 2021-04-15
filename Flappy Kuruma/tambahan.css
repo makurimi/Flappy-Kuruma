@@ -1,0 +1,14 @@
+.socmed{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.github{
+    height: 50px;
+}
+
+.wah{
+    text-align: center;
+    font-family: sans-serif;
+}
